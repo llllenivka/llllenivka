@@ -44,7 +44,7 @@
 <!-- | [Matrix](https://github.com/llllenivka/Matrix) | Implementation of the s21_matrix_oop.h library | C | -->
 <!-- | [Decimal](https://github.com/llllenivka/Decimal) | Implementation of the s21_matrix_oop.h library | C | -->
 <!-- | [String+](https://github.com/llllenivka/String+) | Implementation of the s21_matrix_oop.h library | C | -->
-<!-- | [SimpleBashUtils](https://github.com/llllenivka/SimpleBashUtils) | Implementation of the s21_matrix_oop.h library | C | -->
+| [SimpleBashUtils](https://github.com/llllenivka/SimpleBashUtils) | Implementation of the s21_matrix_oop.h library | C |
 
 ### DevOps
 | Project name | Description | Stack       |
