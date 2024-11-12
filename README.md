@@ -41,10 +41,11 @@
 |--------------|-------------|-------------|
 | [Math](https://github.com/llllenivka/Math) | Implementation of the math.h library | C, check.h, Makefile |
 | [SimpleBashUtils](https://github.com/llllenivka/SimpleBashUtils) | Development of Bash text utilities: cat, grep | C, Bash, Makefile |
+| [String](https://github.com/llllenivka/String) | Implementation of the string.h library with additions. | C, check.h, Makefile |
 <!-- | [BrickGame_v1.0](https://github.com/llllenivka/BrickGame_v1.0) | Implementation of the s21_matrix_oop.h library | C | -->
 <!-- | [Matrix](https://github.com/llllenivka/Matrix) | Implementation of the s21_matrix_oop.h library | C | -->
 <!-- | [Decimal](https://github.com/llllenivka/Decimal) | Implementation of the s21_matrix_oop.h library | C | -->
-<!-- | [String+](https://github.com/llllenivka/String+) | Implementation of the s21_matrix_oop.h library | C | -->
+
 
 
 ### DevOps
