@@ -12,7 +12,7 @@
 
 - **Languages**: C#, C/C++, SQL, HTML/CSS
 - **Frameworks**: .NET Core, ASP.NET Core, Entity Framework Core, Qt, OpenGL
-- **Databases**: PostgreSQL
+- **Databases**: PostgreSQL, Sqlite
 - **Other**: Git, Docker, CI/CD
 
 ## My stats on github
