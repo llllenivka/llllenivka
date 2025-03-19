@@ -6,12 +6,12 @@
 
 - I'm a student at School 21
 - Looking for a job as a C# developer.
-- In my free time, I'm studying GameDev
+<!-- - In my free time, I'm studying GameDev -->
 
 ## Language & DevTools
 
-- **Languages**: C, C++, C#, Bash
-- **Frameworks**: Qt, OpenGL
+- **Languages**: C#, C/C++, SQL, HTML/CSS
+- **Frameworks**: .NET Core, ASP.NET Core, Entity Framework Core, Qt, OpenGL
 - **Databases**: PostgreSQL
 - **Other**: Git, Docker, CI/CD
 
