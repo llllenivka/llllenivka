@@ -1,20 +1,12 @@
+# Hi! I'm Adelina!✌
 
-<img align="left" src="./gif/hello.gif" height=250>
+![gif-hello](gif/Pixel%20Jeff%20X%20Divoom.gif)
 
-### Hi!
+## About me 
 
-I'm Adelina
-
-I'm a student at School 21 by SBER
-
-Looking for a job as a C# developer
-
-</br>
-</br>
-</br>
-</br>
-
-
+- I'm a student at School 21
+- Looking for a job as a C# developer.
+<!-- - In my free time, I'm studying GameDev -->
 
 ## Language & DevTools
 
@@ -23,7 +15,9 @@ Looking for a job as a C# developer
 - **Databases**: PostgreSQL, Sqlite
 - **Other**: Git, Docker, CI/CD
 
+## My stats on github
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=llllenivka&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 ## My Project
 
 ### C#
