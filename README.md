@@ -15,9 +15,6 @@
 - **Databases**: PostgreSQL, Sqlite
 - **Other**: Git, Docker, CI/CD
 
-## My stats on github
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=llllenivka&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 ## My Project
 
 ### C#
