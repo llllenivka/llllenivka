@@ -10,12 +10,17 @@
 
 ## Language & DevTools
 
-- **Languages**: C#, C/C++, SQL, HTML/CSS
+- **Languages**: JavaScript, C#, C/C++, SQL, HTML/CSS
 - **Frameworks**: .NET Core, ASP.NET Core, Entity Framework Core, Qt, OpenGL
 - **Databases**: PostgreSQL, Sqlite
 - **Other**: Git, Docker, CI/CD
 
 ## My Project
+
+### JavaScript
+| Project name | Description | Stack       |
+|--------------|-------------|-------------|
+| [S21_JavaScript_Bootcamp](https://github.com/llllenivka/S21_JavaScript_Bootcamp) | | JavaScript |
 
 ### C#
 | Project name | Description | Stack       |
